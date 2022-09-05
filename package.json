@@ -38,5 +38,13 @@
     "prettier"
   ],
   "author": "vikky singh",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikky-zopsmart/eslint-config-emca.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vikky-zopsmart/eslint-config-emca/issues"
+  },
+  "homepage": "https://github.com/vikky-zopsmart/eslint-config-emca#readme"
 }
