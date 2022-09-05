@@ -1,0 +1,1 @@
+# ESLint + Prettier Config for React (Next.js)
